@@ -2,7 +2,6 @@
 - 👀 I’m interested in Front-End Web Development.
 - 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate my skills on CodePenguin.
-- 📫 Reach me through my Instagram, @vibesof_thakur
 - 📫 Reach me through my E-Mail, vibesofthakur@gmail.com
 
 <!---
